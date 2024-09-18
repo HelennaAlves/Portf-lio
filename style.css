@@ -21,6 +21,7 @@ span{
     padding: 9px
 }
 .apresentacao{
+    margin: 6%;
     display: flex;
     align-items: center;
     justify-content: space-between;
