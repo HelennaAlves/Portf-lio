@@ -26,7 +26,6 @@ span{
     align-items: center;
     justify-content: space-between;
 }
-image{
-    float: right;
-
+.apresentacao__conteudo{
+    width: 156px;
 }
