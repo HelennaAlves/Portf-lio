@@ -43,5 +43,19 @@ span{
     justify-content: space-between;
 }
 .Instagram{
-    font-size: 25;
+    font-size: 40;
+    display: flex;
+    justify-content: space-between;
+}
+.apresentacao__link__link{
+    background-color: #20B2AA;
+    width: 235px;
+    text-align: center;
+    border-radius: 14px;
+    font-size: 22px;
+    padding: 21.5px;
+    font-family: 'Caveat', sans-serif;
+    text-decoration: none;
+    color: #000000;
+    
 }
