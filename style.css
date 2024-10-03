@@ -16,6 +16,7 @@ strong{
 }
 h1{
     font-weight: bold;
+    font-family: 'Caveat', sans-serif;
 }
 span{
     color: #20B2AA	;
@@ -30,6 +31,8 @@ span{
 }
 .apresentacao__conteudo{
     width: 524px;
+    font-size: 27;
+    font-family: 'Caveat', sans-serif;
 }
 .apresentacao__conteudo__titulo{
     font-size: 27;
