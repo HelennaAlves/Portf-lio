@@ -48,6 +48,7 @@ span{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    gap: 32px;
 }
 .Instagram{
     font-size: 40;
