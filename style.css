@@ -37,9 +37,15 @@ span{
 .apresentacao__conteudo__titulo{
     font-size: 27;
     font-family: 'Caveat', sans-serif;
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
 }
 .apresentacao__link{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
 }
 .Instagram{
@@ -49,13 +55,13 @@ span{
 }
 .apresentacao__link__link{
     background-color: #20B2AA;
-    width: 235px;
+    width: 236  npx;
     text-align: center;
     border-radius: 14px;
-    font-size: 22px;
-    padding: 21.5px;
+    font-size: 19px;
+    padding: 20px;
     font-family: 'Caveat', sans-serif;
     text-decoration: none;
     color: #000000;
-    font-weight: 600;
+    font-weight: 400;
 }
