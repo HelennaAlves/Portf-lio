@@ -66,5 +66,20 @@ span{
     text-decoration: none;
     color: #000000;
     font-weight: 400;
-   
+    border: 2px solid #20B2AA;
+}
+.container {
+    margin: 20%;
+    display: flex;
+    gap: 10px;
+}
+a:hover{
+    background-color: #20B2AA;
+}
+.apresentacao__link__link:hover{
+background-color: #20B2AA;
+
+}
+div:hover{
+    
 }
