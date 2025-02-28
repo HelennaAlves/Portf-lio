@@ -5,7 +5,12 @@ body{
     font-family: 'Caveat', sans-serif;
     font-size: 24px;
 }
-
+h1{
+    color: gray;
+}
+p {
+    color: darkgray;
+}
 button {
     background-color: green;
     color: white;
