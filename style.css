@@ -31,24 +31,39 @@ span{
     padding: 10px;
 }
 .apresentacao_links_link {
-display: flex;
-border: 2px solid #22D4FD;
-width: 178px;
-text-align: center;
-border-radius: 8px;
-font-size: 24px;
-font-weight: 600;
-text-decoration: none;
-color: #f6f6f6;
-font-family: 'Caveat', sans-serif;
-justify-content: center;
-gap: 16px;
+    display: flex;
+    border: 2px solid #22D4FD;
+    width: 178px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #f6f6f6;
+    font-family: 'Caveat', sans-serif;
+    justify-content: center;
+    gap: 16px;
 }
 a:hover {
-    background-color: yellowgreen;
+    background-color: #22D4FD
 }
 .apresentacao_links_link:hover{
     background-color: #272727;
     cursor: pointer;
-    
+}
+.rodape{
+    color: #000000;
+    background-color: #22D4FD;
+    margin: 28px;
+    padding: 24px;
+    text-align: center;
+    font-family: 'Caveat', sans-serif;
+    font-size: 27px;
+    font-weight: 400;
+}
+.apresentacao{
+    padding: 5% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
