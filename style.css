@@ -44,3 +44,6 @@ font-family: 'Caveat', sans-serif;
 justify-content: center;
 gap: 16px;
 }
+a:hover {
+    background-color: yellowgreen;
+}
