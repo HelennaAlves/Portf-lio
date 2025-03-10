@@ -49,4 +49,6 @@ a:hover {
 }
 .apresentacao_links_link:hover{
     background-color: #272727;
+    cursor: pointer;
+    
 }
