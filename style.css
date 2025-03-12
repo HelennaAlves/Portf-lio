@@ -74,6 +74,8 @@ a:hover {
     padding: 5px 10px;
     text-decoration: none;
     padding: 10px 15px;
+    font-weight: 600;
+    text-decoration: none;
 }
 .Cabecalho_menu_link:hover{
     color: #007bff;  
