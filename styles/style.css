@@ -75,6 +75,7 @@ a:hover {
     text-decoration: none;
     padding: 0px 0px;
     font-weight: 600;
+    font-family: 'Caveat', sans-serif;
 }
 .Cabecalho_menu_link:hover{
     color: #007bff;  
