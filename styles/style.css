@@ -71,7 +71,7 @@ a:hover {
     font-size: 30px;
     color: #3CB371;
     margin: 0px;
-    padding: 0px 0px;
+    padding: 5px;
     text-decoration: none;
     padding: 0px 0px;
     font-weight: 600;
@@ -84,8 +84,7 @@ a:hover {
     display: flex;
     justify-content: space-between;
     align-items: flex;
-    gap: 0px;
 }
 .Cabecalho{
-    padding: 0% 0%;
+    padding: 5px;
 }
