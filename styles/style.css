@@ -82,8 +82,8 @@ a:hover {
 .Cabecalho_menu{
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    gap: px;
+    align-items: flex;
+    gap: 10px;
 }
 .Cabecalho{
     padding: 1% 3%;
