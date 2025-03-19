@@ -68,5 +68,10 @@ a:hover {
     justify-content: space-between;
 }
 .Cabecalho{
-    
+    font-size: 30px;
+    color: #3CB371;
+    margin: 12px;
+    padding: 16px;
+    text-decoration: none;
+    padding: 1px 650px;
 }
