@@ -73,5 +73,18 @@ a:hover {
     margin: 12px;
     padding: 16px;
     text-decoration: none;
-    padding: 1px 750px;
+    padding: 3px 750px;
+    font-family: 'Caveat', sans-serif;
+    font-weight: 600;
+}
+.Cabecalho_menu{
+   justify-content: space-between;
+   align-items: flex;
+   display: flex;
+}
+.Cabecalho_menu_link:hover{
+    color: #007bff;
+}
+.Cabecalho_menu_link{
+    padding: 0px;
 }
