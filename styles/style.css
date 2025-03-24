@@ -126,5 +126,7 @@ body{
     border-radius: 8px;
     font-size: 24px;
     font-weight: 600;
-    
+    text-decoration: none;
+    color: var(--cor-secundaria);
+    font-family: 'Caveat', sans-serif;
 }
