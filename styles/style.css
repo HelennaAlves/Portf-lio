@@ -136,7 +136,7 @@ body{
     --cor-terciaria: #22D4FD;
     --color-hover: #272727;
     --fonte-primaria: 'Caveat', sans-serif;
-    --fonte-secundaria: 'Caveat', sans-serif;
+    --fonte-secundaria: sans-serif, Arial;
 }
 .rodape{
     padding: 24px;
@@ -146,4 +146,33 @@ body{
     font-family: 'Caveat', sans-serif;
     font-size: 27px;
     font-weight: 400;
+}
+.Cabecalho_menu_link{
+    font-family: var(--fonte-primaria);
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--cor-terciaria);
+}
+.apresentacao_conteudo{
+    font-size: 24px;
+    font-family: var(--fonte-secundaria);
+}
+.apresentacao_links_subtitulo{
+    font-size: 24px;
+    font-family: var(--fonte-primaria);
+    font-weight: 400;
+}
+.apresentacao_links_link{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    border: 2px solid var(--cor-terciaria);
+    width: 178px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-secundaria);
 }
