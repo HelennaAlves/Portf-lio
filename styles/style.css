@@ -136,3 +136,12 @@ body{
     --cor-terciaria: #22D4FD;
     --color-hover: #272727;
 }
+.rodape{
+    padding: 24px;
+    color: var(--cor-primaria);
+    background-color: var(--cor-terciaria);
+    text-align: center;
+    font-family: 'Caveat', sans-serif;
+    font-size: 27px;
+    font-weight: 400;
+}
