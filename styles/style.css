@@ -113,3 +113,18 @@ body{
     font-weight: 600;
     color: var(--cor-terciaria);
 }
+.titulo-destaque{
+    color: var(--cor-terciaria);
+}
+.apresentacao_links_link{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    border: 2px solid var(--cor-terciaria);
+    width: 178px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 600;
+    
+}
