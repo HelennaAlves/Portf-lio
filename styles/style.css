@@ -176,3 +176,12 @@ body{
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
 }
+.rodape{
+    padding: 24px;
+    color: var(--cor-primaria);
+    background-color: var(--cor-terciaria);
+    text-align: center;
+    font-family: var(--fonte-secundaria);
+    font-size: 27px;
+    font-weight: 400;
+}
