@@ -135,6 +135,8 @@ body{
     --cor-secundaria: #f6f6f6;
     --cor-terciaria: #22D4FD;
     --color-hover: #272727;
+    --fonte-primaria: 'Caveat', sans-serif;
+    --fonte-secundaria: 'Caveat', sans-serif;
 }
 .rodape{
     padding: 24px;
