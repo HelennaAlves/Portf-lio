@@ -130,3 +130,9 @@ body{
     color: var(--cor-secundaria);
     font-family: 'Caveat', sans-serif;
 }
+:root{
+    --cor-primaria: #000000;
+    --cor-secundaria: #f6f6f6;
+    --cor-terciaria: #22D4FD;
+    --color-hover: #272727;
+}
