@@ -88,3 +88,13 @@ a:hover {
 .Cabecalho_menu_link{
     padding: 0px;
 }
+:root{
+    --main-bg-color: brown;
+    --cor-primaria: #000000;
+    --cor-secundaria: #f6f6f6;
+    --cor-terciaria: #22D4FD;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
